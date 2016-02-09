@@ -1,0 +1,12 @@
+# testing: true
+
+# Site settings
+# Course Info
+title: "TAAAG: Topological Approaches to Algebra and Arithmetic Geometry"
+tagline: "2-4 September, 2016 at the University of Georgia, Athens"
+
+baseurl: "/taaag"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
